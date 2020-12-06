@@ -39,7 +39,7 @@ Clone this project
 
 ```bash
 > git clone https://github.com/thelong-bit/ArugaBot.git
-> cd whatsapp-bot
+> cd ArugaBot
 ```
 
 Install the dependencies:
