@@ -1,5 +1,5 @@
 {
     "apiNoBg": "APIKEY",
-    "apiSS": "APIKEY",
+    "apiSS": "https://api.apiflash.com/v1/urltoimage?access_key=b7a1e0db24654ee1bf57084291f92d41&url=http://google.com",
     "apiSimi": "DtEHlWXe.3Q~pNXGRf~Y_X-e9KVjSWfC_wYEi1~l"
 }
